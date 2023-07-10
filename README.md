@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 this is Isshi.
+I am a CSE Undergrad Student.
 
 <!--
 **isshisarkar/isshisarkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
