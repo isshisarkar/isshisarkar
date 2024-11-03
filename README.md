@@ -1,6 +1,6 @@
-### Hi there 👋 this is Isshi.
-I am a CSE Undergrad Student.
+### Hey there! 👋 I'm Isshi.
 
+I'm a Computer Science graduate and currently a postgraduate student specializing in Operations Research at NIT Durgapur. I'm passionate about solving complex problems, coding, and exploring new technologies. 
 <!--
 **isshisarkar/isshisarkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
