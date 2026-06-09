@@ -1,20 +1,10 @@
-### hi, i'm isshi 👋
+### Hey there! 👋 I'm Isshi
 
-cs grad • mtech (operations research)
+cs graduate • postgraduate student in operations research @ NIT Durgapur
 
-data analyst | problem solver
+I work on solving complex problems using data, logic, and structured thinking 📊
 
 ---
 
 interests:
-data analysis • statistics • optimization • applied ml
-
----
-
-currently exploring:
-turning data into insights and decisions
-
----
-
-focus:
-clean analysis • structured thinking • real-world problem solving
+problem solving • data analysis • optimization • coding • new technologies
